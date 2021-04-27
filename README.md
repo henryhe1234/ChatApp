@@ -1,1 +1,1 @@
-# hatApp
+# ChatApp
