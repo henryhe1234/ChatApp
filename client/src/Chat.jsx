@@ -44,7 +44,7 @@ const Messages = ({ user }) => {
   if (!data) {
     return null;
   }
-  console.log(data);
+  
   return (
     <Fragment>
       {data.messages.map(({ id, user: messageUser, content }) => (
